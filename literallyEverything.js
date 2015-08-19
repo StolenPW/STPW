@@ -46,7 +46,7 @@ function stolenEval(script)
 		  case "date":  return Date() + "\n";
 		  case "5d0daa360b9da2ed65f6": { window.location = "http://stolen.pw/nicelady.jpg"; return "Loading...\n\n" ;}
 		  case "help":  return giuehirgtoauiegroauwegy();
-		  case "stats": return status();
+		  case "status": return status();
 		  case "exit":  return init();
 		  case "type" : if (parameters[0]=="readme.txt") {
 						  return "Sorry about that, Not really though. ごめんなさい\n"
@@ -62,12 +62,6 @@ function stolenEval(script)
 		  case "contact.exe":
 		  case "contact": { window.location = "http://stolen.pw/contact.html"; return "Loading...\n\n" ;}
 		  case "tts.exe":
-		  case "status":
-		  case "status.exe":
-		  case "stats.exe":
-		  case "stats":
-		  case "state.exe":
-		  case "state":
 		  case "tts": { window.location = "http://stolen.pw/TTS.html"; return "Loading...\n\n" ;}
 		  case "cpanel":
 		  case "cpanel.exe": { window.location = "http://stolen.pw/cpanel"; return "Loading...\n\n" ;}
